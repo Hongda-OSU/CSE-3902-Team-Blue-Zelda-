@@ -1,4 +1,5 @@
 # CSE-3902-Project
+![zd1](https://user-images.githubusercontent.com/67817916/148726958-74e2a1d2-5847-47b6-b106-0a9979d599cc.gif)
 
 * Game: The Legend of Zelda
 * Current Sprint: Sprint 5
