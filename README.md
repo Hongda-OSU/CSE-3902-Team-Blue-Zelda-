@@ -9,6 +9,7 @@
 [  *Commits][commits-url]
 [  *Projects][projects-url]
 [  *Insights][insights-url]
+[  *Video][video-url]
 
 <br />
 
