@@ -210,8 +210,7 @@ gao.1600@osu.edu
 [commits-url]: https://github.com/ThasianX/CSE-3902-Project/commits
 [projects-url]: https://github.com/ThasianX/CSE-3902-Project/projects
 [insights-url]: https://github.com/ThasianX/CSE-3902-Project/pulse
-
-
+[video-url]: https://www.youtube.com/watch?v=qvB6drBRjdc&t=140s
 
 
 
